@@ -1,5 +1,8 @@
 Space-Time Kernel Density Estimation STKDE
 
+Required modules:
+numpy, scipy
+
 Relevant literature:
 Hohl, A., Delmelle, E. M., & Tang, W. (2015). Spatiotemporal domain decomposition for massive parallel computation of space-time kernel density. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2(4), 7.
 Hohl, A., Delmelle, E., Tang, W., & Casas, I. (2016). Accelerating the discovery of space-time patterns of infectious diseases using parallel computing. Spatial and spatio-temporal epidemiology, 19, 10-20.
